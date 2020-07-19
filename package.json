@@ -1,0 +1,19 @@
+{
+    "name": "warsawjs-workshop-46-tomasz",
+    "private": true,
+    "scripts": {
+        "test": "jest",
+        "lint": "prettier --write src"
+    },
+    "dependencies": {
+        "@types/ramda": "0.27.11",
+        "ramda": "0.27.0"
+    },
+    "devDependencies": {
+        "@types/jest": "26.0.5",
+        "jest": "26.1.0",
+        "prettier": "2.0.5",
+        "ts-jest": "26.1.3",
+        "typescript": "3.9.7"
+    }
+}
